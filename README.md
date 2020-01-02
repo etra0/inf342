@@ -1,5 +1,6 @@
 # Computación Gráfica (INF342)
 
 Integrantes:
-    * Sebastián Aedo, 201573057-1
-    * Adbías Palacios, 201573XXX-X
+
+* Sebastián Aedo, 201573057-1
+* Adbías Palacios, 201573XXX-X
