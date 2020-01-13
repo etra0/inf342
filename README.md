@@ -3,4 +3,4 @@
 Integrantes:
 
 * Sebastián Aedo, 201573057-1
-* Adbías Palacios, 201573XXX-X
+* Adbías Palacios, 201573007-5
